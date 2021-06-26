@@ -3,33 +3,25 @@
 <b><br>Estrutura de Dados</h2></div>
 
 
-
-
-
-
-
 **Índice**
 
  - Questão 1
 
     - Métodos de Ordenação
+	    - [Conceito geral]()
 	    - [Bubble sort](https://github.com/MatheusFuzi/EstruturadeDados2AARE/blob/master/Ordering%20Methods/Bubble%20Sort.md)
-		    - [Descrição]()
 		    - [Funcionamento]()
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
 	    - [Selection sort]()
-		    - [Descrição]()
 		    - [Funcionamento]()
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
 	    - [Insertion sort]()
-		    - [Descrição]()
 		    - [Funcionamento]()
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
 	    - [Quick sort]()
-		    - [Descrição]()
 		    - [Funcionamento]()
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
@@ -54,8 +46,8 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDc2ODg4MywxMTg4NTA4NzU5LC0xMT
-I4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzExNzQ3MiwtNjM1MDg4
-MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNSwxMTY4MTE2NTIsOT
-k5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMjIxNjgxMTYwLDExODg1MDg3NTksLTExMj
+gxMjY2MTUsMTQzMjM3NTQ1OCwxNjczMTE3NDcyLC02MzUwODgw
+NDQsMTYxOTA4MzM4MiwxNDgyNTUxMTE1LDExNjgxMTY1Miw5OT
+kyNTg2NTUsLTMzMjQ1NTM2M119
 -->
