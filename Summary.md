@@ -15,15 +15,15 @@
 		    - [Performance](Methods/BubbleSort.md#Performance)
 		    - [Exemplo de Implementação](Methods/BubbleSort.md#Exemplo-de-Implementação)
 	    - [Selection sort](Methods/SelectionSort.md)
-		    - [Funcionamento]()
-		    - [Performance]()
-		    - [Exemplo de Implementação]()
+		    - [Funcionamento](SelectionSort.md#Funcionamento)
+		    - [Performance](SelectionSort.md#Performance)
+		    - [Exemplo de Implementação](SelectionSort.md#Exemplo-de-Implementação)
 	    - [Insertion sort](Methods/InsertionSort.md)
-		    - [Funcionamento]()
-		    - [Performance]()
-		    - [Exemplo de Implementação]()
+		    - [Funcionamento](Methods/InsertionSort.md#Funcionamento)
+		    - [Performance](Methods/InsertionSort.md#Performance)
+		    - [Exemplo de Implementação](Methods/InsertionSort.md#Exemplo-de-Implementação)
 	    - [Quick sort](Methods/QuickSort.md)
-		    - [Funcionamento]()
+		    - [Funcionamento](#Funcionamento)
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
 
@@ -53,10 +53,11 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTAyMjUyNiwtNDg1MzYyODEzLDY5NT
-c4MTAwOCwtMTcwODU5ODgyMCw3MjI2ODc5MDAsLTE2MTU0OTUy
-NjMsLTE0MDg2MjEyNTksMTc1MDUzNTcwMSwxMTg4NTA4NzU5LC
-0xMTI4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzExNzQ3MiwtNjM1
-MDg4MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNSwxMTY4MTE2NT
-IsOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTEzNDI2MjY5MTksLTQ1OTAyMjUyNiwtND
+g1MzYyODEzLDY5NTc4MTAwOCwtMTcwODU5ODgyMCw3MjI2ODc5
+MDAsLTE2MTU0OTUyNjMsLTE0MDg2MjEyNTksMTc1MDUzNTcwMS
+wxMTg4NTA4NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NTgsMTY3
+MzExNzQ3MiwtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4MjU1MT
+ExNSwxMTY4MTE2NTIsOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
+
 -->
