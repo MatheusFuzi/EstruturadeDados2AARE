@@ -45,7 +45,7 @@
 <br>
 
 
- ## Conceito</div>
+ ## Conceito Métodos de Ordenação</div>
 <p>	A ordenação tem como objetivo organizar os dados listados em ordem crescente ou decrescente assim facilitando a recuperação destes dados em um determinado conjunto a que pertencem, deste modo auxiliando a busca e pesquisa dos dados.</p>
 	<p>Imaginamos que em um sistema de contatos onde há vários contatos cadastrados, em uma busca geral retornando todos os contatos sem uma ordenação a procura pela informação que precisa fica lenta e inviável, com uma ordenação você consegue reduzir o tempo desta procura e facilitar a sua busca</p>
 		  
@@ -53,10 +53,10 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MDA1MDU4LC0xNzA4NTk4ODIwLDcyMj
-Y4NzkwMCwtMTYxNTQ5NTI2MywtMTQwODYyMTI1OSwxNzUwNTM1
-NzAxLDExODg1MDg3NTksLTExMjgxMjY2MTUsMTQzMjM3NTQ1OC
-wxNjczMTE3NDcyLC02MzUwODgwNDQsMTYxOTA4MzM4MiwxNDgy
-NTUxMTE1LDExNjgxMTY1Miw5OTkyNTg2NTUsLTMzMjQ1NTM2M1
-19
+eyJoaXN0b3J5IjpbMTA0NzU5MDExNCwtMTcwODU5ODgyMCw3Mj
+I2ODc5MDAsLTE2MTU0OTUyNjMsLTE0MDg2MjEyNTksMTc1MDUz
+NTcwMSwxMTg4NTA4NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NT
+gsMTY3MzExNzQ3MiwtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4
+MjU1MTExNSwxMTY4MTE2NTIsOTk5MjU4NjU1LC0zMzI0NTUzNj
+NdfQ==
 -->
