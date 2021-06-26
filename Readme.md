@@ -57,7 +57,7 @@
 <ul>
 <li><a href="#Conceito-%C3%81rvore-Bin%C3%A1ria">Árvore binária</a>
 <ul>
-<li><a href="">Funcionamento</a></li>
+<li><a href="#Funcionamento-de-uma-%C3%81rvore-Bin%C3%A1ria">Funcionamento</a></li>
 <li><a href="">Desempenho </a>
 <ul>
 <li><a href="">Árvore binária balanceada</a></li>
@@ -80,4 +80,6 @@
 <h2 id="conceito-árvore-binária">Conceito Árvore Binária</h2>
 <p>Uma árvore binária é uma estrutura de dados útil quando precisam ser tomadas decisões bidirecionais em cada ponto de um processo.</p>
 <p>Por exemplo, suponha que precisemos encontrar todas as repetições numa lista de números. Uma maneira de fazer isto é comparar cada número com todos que o precedem. Entretanto, isso envolve um grande número de comparações</p>
+<h2 id="funcionamento-de-uma-árvore-binária">Funcionamento de uma Árvore Binária</h2>
+<p></p>
 
