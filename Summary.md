@@ -8,7 +8,7 @@
  - <h3>Questão 1</h3>
 
     - Métodos de Ordenação
-	    - [Conceito geral](#Conceito Geral)
+	    - [Conceito geral]()
 	    - [Bubble sort](https://github.com/MatheusFuzi/EstruturadeDados2AARE/blob/master/Ordering%20Methods/Bubble%20Sort.md)
 		    - [Funcionamento]()
 		    - [Performance]()
@@ -44,15 +44,15 @@
 <br>
 
 
- # <h3>*Conceito geral
+ # <h3><li>Conceito geral
 
 		  
 
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjcwMjEzNiwxNzUwNTM1NzAxLDExOD
-g1MDg3NTksLTExMjgxMjY2MTUsMTQzMjM3NTQ1OCwxNjczMTE3
-NDcyLC02MzUwODgwNDQsMTYxOTA4MzM4MiwxNDgyNTUxMTE1LD
-ExNjgxMTY1Miw5OTkyNTg2NTUsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE0MDg2MjEyNTksMTc1MDUzNTcwMSwxMT
+g4NTA4NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzEx
+NzQ3MiwtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNS
+wxMTY4MTE2NTIsOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
 -->
