@@ -10,7 +10,7 @@
 
     - Métodos de Ordenação
 	    - [Conceito geral]( #Conceito)
-	    - [Bubble sort](https://github.com/MatheusFuzi/EstruturadeDados2AARE/blob/master/Ordering%20Methods/Bubble%20Sort.md)
+	    - [Bubble sort](/MethodsOrdering/BubleSort.md)
 		    - [Funcionamento]()
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
@@ -53,9 +53,10 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg1OTg4MjAsNzIyNjg3OTAwLC0xNj
-E1NDk1MjYzLC0xNDA4NjIxMjU5LDE3NTA1MzU3MDEsMTE4ODUw
-ODc1OSwtMTEyODEyNjYxNSwxNDMyMzc1NDU4LDE2NzMxMTc0Nz
-IsLTYzNTA4ODA0NCwxNjE5MDgzMzgyLDE0ODI1NTExMTUsMTE2
-ODExNjUyLDk5OTI1ODY1NSwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTg5ODQyOTIyNSwtMTcwODU5ODgyMCw3Mj
+I2ODc5MDAsLTE2MTU0OTUyNjMsLTE0MDg2MjEyNTksMTc1MDUz
+NTcwMSwxMTg4NTA4NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NT
+gsMTY3MzExNzQ3MiwtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4
+MjU1MTExNSwxMTY4MTE2NTIsOTk5MjU4NjU1LC0zMzI0NTUzNj
+NdfQ==
 -->
