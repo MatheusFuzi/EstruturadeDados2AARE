@@ -1,6 +1,7 @@
 
 
-![Alt text ](/img/unipar.png "teste") <div align='center'><b><h2>ADS - Análise e Desenvolvimento de Sistemas
+<center> ![Alt text ](/img/unipar.png "teste") 
+<div align='center'><b><h2>ADS - Análise e Desenvolvimento de Sistemas
 <b><br>Estrutura de Dados</h2></div>
 
 
@@ -55,7 +56,8 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgxMjY2MTUsMTQzMjM3NTQ1OCwxNj
-czMTE3NDcyLC02MzUwODgwNDQsMTYxOTA4MzM4MiwxNDgyNTUx
-MTE1LDExNjgxMTY1Miw5OTkyNTg2NTUsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbOTU2MTUzODM0LC0xMTI4MTI2NjE1LDE0Mz
+IzNzU0NTgsMTY3MzExNzQ3MiwtNjM1MDg4MDQ0LDE2MTkwODMz
+ODIsMTQ4MjU1MTExNSwxMTY4MTE2NTIsOTk5MjU4NjU1LC0zMz
+I0NTUzNjNdfQ==
 -->
