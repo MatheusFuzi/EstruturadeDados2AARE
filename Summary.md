@@ -3,7 +3,8 @@
 ![png](/img/unipar.png) 
 ##
 **ADS - Análise e Desenvolvimento de Sistemas**
-		  **Estrutura de Dados**
+ <center>**Estrutura de Dados**</di></center
+
 ##
 
 
@@ -54,7 +55,7 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzY3MDExNCwxNjE5MDgzMzgyLDE0OD
-I1NTExMTUsMTE2ODExNjUyLDk5OTI1ODY1NSwtMzMyNDU1MzYz
-XX0=
+eyJoaXN0b3J5IjpbLTE3OTQ4MTM0NDEsMTYxOTA4MzM4MiwxND
+gyNTUxMTE1LDExNjgxMTY1Miw5OTkyNTg2NTUsLTMzMjQ1NTM2
+M119
 -->
