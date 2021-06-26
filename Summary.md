@@ -1,6 +1,6 @@
 
 
-<div>![png](/img/unipar.png)</div> 
+![252](/img/unipar.png)
 
 <div align='center'><b><h2>ADS - Análise e Desenvolvimento de Sistemas
 <b><br>Estrutura de Dados</h2></div>
@@ -55,7 +55,7 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTUwMTkzNCwtNjM1MDg4MDQ0LDE2MT
+eyJoaXN0b3J5IjpbLTQyMTEyNzU4MSwtNjM1MDg4MDQ0LDE2MT
 kwODMzODIsMTQ4MjU1MTExNSwxMTY4MTE2NTIsOTk5MjU4NjU1
 LC0zMzI0NTUzNjNdfQ==
 -->
