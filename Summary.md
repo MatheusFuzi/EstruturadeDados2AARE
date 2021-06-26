@@ -8,15 +8,25 @@
 	    - Bubble sort
 		    - Descrição
 		    - Funcionamento
-		    - 
+		    - Performance
 	    - Selection sort
+		    - Descrição
+		    - Funcionamento
+		    - Performance
 	    - Insertion sort
+		    - Descrição
+		    - Funcionamento
+		    - Performance
 	    - Quick sort
-	 - 
-		 - asd
+		    - Descrição
+		    - Funcionamento
+		    - Performance
+
+	 - asd
+		  
 
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY4MTY1MzUsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE5OTkzNzQ3MjAsLTMzMjQ1NTM2M119
 -->
