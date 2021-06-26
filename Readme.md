@@ -58,16 +58,14 @@
 <li><a href="#Conceito-%C3%81rvore-Bin%C3%A1ria">Árvore binária</a>
 <ul>
 <li><a href="#Funcionamento-de-uma-%C3%81rvore-Bin%C3%A1ria">Funcionamento</a></li>
-<li><a href="">Desempenho </a>
+<li><a href="Methods/BinaryTree.md#Desempenho">Desempenho </a>
 <ul>
-<li><a href="">Árvore binária balanceada</a></li>
-<li><a href="">Árvore binária não balanceada</a></li>
-<li><a href="">Diferença entre as duas</a></li>
-<li><a href="">Impactos na execução</a></li>
+<li><a href="Methods/BinaryTree.md#%C3%81rvore-Bin%C3%A1ria-Balanceada">Árvore binária balanceada</a></li>
+<li><a href="Methods/BinaryTree.md#%C3%81rvore-Bin%C3%A1ria-N%C3%A3o-Balanceada">Árvore binária não balanceada</a></li>
+<li><a href="Methods/BinaryTree.md#Impactos">Impactos na execução</a></li>
 </ul>
 </li>
-<li><a href="">Exemplo prático Árvore binária balanceada</a></li>
-<li><a href="">Exemplo prático Árvore binária não balanceada</a></li>
+<li><a href="Methods/BinaryTree.md#Exemplo">Exemplo</a></li>
 </ul>
 </li>
 </ul>
@@ -79,7 +77,8 @@
 	<p>Imaginamos que em um sistema de contatos onde há vários contatos cadastrados, em uma busca geral retornando todos os contatos sem uma ordenação a procura pela informação que precisa fica lenta e inviável, com uma ordenação você consegue reduzir o tempo desta procura e facilitar a sua busca</p>
 <h2 id="conceito-árvore-binária">Conceito Árvore Binária</h2>
 <p>Uma árvore binária é uma estrutura de dados útil quando precisam ser tomadas decisões bidirecionais em cada ponto de um processo.</p>
-<p>Por exemplo, suponha que precisemos encontrar todas as repetições numa lista de números. Uma maneira de fazer isto é comparar cada número com todos que o precedem. Entretanto, isso envolve um grande número de comparações</p>
+<p>Por exemplo, suponha que precisemos encontrar todas as repetições numa lista de números. Uma maneira de fazer isto é comparar cada número com todos que o precedem.</p>
 <h2 id="funcionamento-de-uma-árvore-binária">Funcionamento de uma Árvore Binária</h2>
-<p></p>
+<p>O primeiro número na lista é colocado num nó estabelecido como a raiz de uma árvore binária com as subárvores esquerda e direita vazias. Cada número sucessivo na lista é, então, comparado ao número na raiz. Se coincidirem, teremos uma repetição. Se for menor, examinaremos a subárvore esquerda; se for maior, examinaremos a subárvore direita.</p>
+<p>Se a subárvore estiver vazia, o número não será repetido e será colocado num novo nó nesta posição na árvore. Se a subárvore não estiver vazia, compararemos o número ao conteúdo da raiz da subárvore e o processo inteiro será repetido com a subárvore.</p>
 
