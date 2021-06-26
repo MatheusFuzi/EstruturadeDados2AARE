@@ -3,9 +3,9 @@
 <b><br>Estrutura de Dados</h2></div>
 
 
-**Índice**
+<h2>**Índice**
 
- - Questão 1
+ - <h3>Questão 1</h3>
 
     - Métodos de Ordenação
 	    - [Conceito geral]()
@@ -28,7 +28,7 @@
 
 	 - [Conclusão]()
 		 
-- Questão 2
+- <h3>Questão 2</h3>
 
 	 - [Árvore binária]()
 		 - [Funcionamento]()
@@ -40,14 +40,17 @@
 		- [Exemplo prático Árvore binária balanceada]()
 		- [Exemplo prático Árvore binária não balanceada]()
 
+<br>
+
+ - <h3>Conceito geral
 
 		  
 
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNjgxMTYwLDExODg1MDg3NTksLTExMj
-gxMjY2MTUsMTQzMjM3NTQ1OCwxNjczMTE3NDcyLC02MzUwODgw
-NDQsMTYxOTA4MzM4MiwxNDgyNTUxMTE1LDExNjgxMTY1Miw5OT
-kyNTg2NTUsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTEyMzMyMzg2OTEsMTE4ODUwODc1OSwtMT
+EyODEyNjYxNSwxNDMyMzc1NDU4LDE2NzMxMTc0NzIsLTYzNTA4
+ODA0NCwxNjE5MDgzMzgyLDE0ODI1NTExMTUsMTE2ODExNjUyLD
+k5OTI1ODY1NSwtMzMyNDU1MzYzXX0=
 -->
