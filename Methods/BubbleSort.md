@@ -3,8 +3,8 @@
 
 ---
 
-<h1>Bubble Sort</h1>
-<h2 id="funcionamento">Funcionamento</h2>
+<h1>Bubble Sort
+</h1><h2 id="funcionamento">Funcionamento</h2>
 <p>É um método de ordenação flutuante, ou por bolha é uma dos algoritmos de ordenação mais simples, sua metodologia é percorrer o vector varias vezes e a cada passagem fazer o número maior para o topo da sequencia</p>
 <h2 id="exemplo-de-implementação">Exemplo de Implementação</h2>
 <pre><code>package bubblesort;
