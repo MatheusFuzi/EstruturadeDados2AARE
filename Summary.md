@@ -13,7 +13,7 @@
  - Questão 1
 
     - Métodos de Ordenação
-	    - Bubble sort
+	    - [Bubble sort](/Ordering Methods/Bubble sort.md)
 		    - Descrição
 		    - Funcionamento
 		    - Performance
@@ -54,8 +54,8 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODUwODc1OSwtMTEyODEyNjYxNSwxND
-MyMzc1NDU4LDE2NzMxMTc0NzIsLTYzNTA4ODA0NCwxNjE5MDgz
-MzgyLDE0ODI1NTExMTUsMTE2ODExNjUyLDk5OTI1ODY1NSwtMz
-MyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTY0NzM4MTEzNSwxMTg4NTA4NzU5LC0xMT
+I4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzExNzQ3MiwtNjM1MDg4
+MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNSwxMTY4MTE2NTIsOT
+k5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
 -->
