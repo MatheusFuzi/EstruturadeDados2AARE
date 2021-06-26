@@ -6,6 +6,9 @@
 
     - Métodos de Ordenação
 	    - Bubble sort
+		    - Descrição
+		    - Funcionamento
+		    - 
 	    - Selection sort
 	    - Insertion sort
 	    - Quick sort
@@ -15,5 +18,5 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIzMTgwNjksLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE0NTY4MTY1MzUsLTMzMjQ1NTM2M119
 -->
