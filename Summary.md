@@ -18,11 +18,11 @@
 		    - [Funcionamento]()
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
-	    - [Insertion sort](Methods/InsertioSort.md)
+	    - [Insertion sort](Methods/InsertionSort.md)
 		    - [Funcionamento]()
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
-	    - [Quick sort]()
+	    - [Quick sort](Methods/QuickSort.md)
 		    - [Funcionamento]()
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
@@ -53,10 +53,10 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjk2NDczNywtMTcwODU5ODgyMCw3Mj
-I2ODc5MDAsLTE2MTU0OTUyNjMsLTE0MDg2MjEyNTksMTc1MDUz
-NTcwMSwxMTg4NTA4NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NT
-gsMTY3MzExNzQ3MiwtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4
-MjU1MTExNSwxMTY4MTE2NTIsOTk5MjU4NjU1LC0zMzI0NTUzNj
-NdfQ==
+eyJoaXN0b3J5IjpbNjM4MDA1MDU4LC0xNzA4NTk4ODIwLDcyMj
+Y4NzkwMCwtMTYxNTQ5NTI2MywtMTQwODYyMTI1OSwxNzUwNTM1
+NzAxLDExODg1MDg3NTksLTExMjgxMjY2MTUsMTQzMjM3NTQ1OC
+wxNjczMTE3NDcyLC02MzUwODgwNDQsMTYxOTA4MzM4MiwxNDgy
+NTUxMTE1LDExNjgxMTY1Miw5OTkyNTg2NTUsLTMzMjQ1NTM2M1
+19
 -->
