@@ -25,9 +25,9 @@
 </li>
 <li><a href="Methods/SelectionSort.md">Selection sort</a>
 <ul>
-<li><a href="SelectionSort.md#Funcionamento">Funcionamento</a></li>
-<li><a href="SelectionSort.md#Performance">Performance</a></li>
-<li><a href="SelectionSort.md#Exemplo-de-Implementa%C3%A7%C3%A3o">Exemplo de Implementação</a></li>
+<li><a href="Methods/SelectionSort.md#Funcionamento">Funcionamento</a></li>
+<li><a href="Methods/SelectionSort.md#Performance">Performance</a></li>
+<li><a href="Methods/SelectionSort.md#Exemplo-de-Implementa%C3%A7%C3%A3o">Exemplo de Implementação</a></li>
 </ul>
 </li>
 <li><a href="Methods/InsertionSort.md">Insertion sort</a>
