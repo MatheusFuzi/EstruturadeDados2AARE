@@ -17,5 +17,5 @@
 <h2 id="exemplo">Exemplo</h2>
 <p>A. Árvore Balanceada
 </p><p>B. Árvore não Balanceada
-</p><p><img src="../img/arvore" alt="Tree"></p>
+</p><p><img src="../img/arvore.png" alt="Tree"></p>
 
