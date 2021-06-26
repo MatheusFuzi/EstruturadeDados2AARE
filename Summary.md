@@ -1,6 +1,6 @@
-**Índice**
 
- 
+
+**Índice**
 
  - Questão 1
 
@@ -36,7 +36,9 @@
 			 - Árvore binária balanceada
 			 - Árvore binária não balanceada
 			 - Diferença entre as duas
-			 - I	
+			 - Impactos na execução
+		- Exemplo prático Árvore binária balanceada
+		- Exemplo prático Árvore binária não balanceada
 
 
 		  
@@ -44,6 +46,6 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTQwNzQwOSw5OTkyNTg2NTUsLTMzMj
-Q1NTM2M119
+eyJoaXN0b3J5IjpbMTE2ODExNjUyLDk5OTI1ODY1NSwtMzMyND
+U1MzYzXX0=
 -->
