@@ -1,13 +1,8 @@
 
 
-
-
-## 
-
-| ![png](/img/unipar.png) | <br>Universidade Paranaense <br>
-ADS - Análise e Desenvolvimento de Sistemas</p>  |
-|--|--|
-|  |  |
+![png](/img/unipar.png)
+ <br>Universidade Paranaense <br>
+ADS - Análise e Desenvolvimento de Sistemas</p>
 
 
 **Índice**
@@ -56,7 +51,7 @@ ADS - Análise e Desenvolvimento de Sistemas</p>  |
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDQwMDU1OSwxNjE5MDgzMzgyLDE0OD
+eyJoaXN0b3J5IjpbMTcwNzM0MDE3NywxNjE5MDgzMzgyLDE0OD
 I1NTExMTUsMTE2ODExNjUyLDk5OTI1ODY1NSwtMzMyNDU1MzYz
 XX0=
 -->
