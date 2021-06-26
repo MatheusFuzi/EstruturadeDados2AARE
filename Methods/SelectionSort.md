@@ -3,7 +3,7 @@
 
 ---
 
-<p><a href="../Summary.md">Voltar</a></p>
+<p><a href="../Readme.md">Voltar</a></p>
 <h1>Selection Sort
 </h1><h2 id="funcionamento">Funcionamento</h2>
 <p>É um algoritmo de ordenação baseado em passar sempre o menor valor do vetor para a primeira posição (ou o maior dependendo da ordem requerida), depois o de segundo menor valor para a segunda posição, e assim é feito sucessivamente com os elementos restantes, até os últimos dois elementos.</p>
