@@ -77,4 +77,7 @@
 <h2 id="conceito-métodos-de-ordenaçãodiv">Conceito Métodos de Ordenação</h2>
 <p>	A ordenação tem como objetivo organizar os dados listados em ordem crescente ou decrescente assim facilitando a recuperação destes dados em um determinado conjunto a que pertencem, deste modo auxiliando a busca e pesquisa dos dados.</p>
 	<p>Imaginamos que em um sistema de contatos onde há vários contatos cadastrados, em uma busca geral retornando todos os contatos sem uma ordenação a procura pela informação que precisa fica lenta e inviável, com uma ordenação você consegue reduzir o tempo desta procura e facilitar a sua busca</p>
+<h2 id="conceito-árvore-binária">Conceito Árvore Binária</h2>
+<p>Uma árvore binária é uma estrutura de dados útil quando precisam ser tomadas decisões bidirecionais em cada ponto de um processo.</p>
+<p>Por exemplo, suponha que precisemos encontrar todas as repetições numa lista de números. Uma maneira de fazer isto é comparar cada número com todos que o precedem.</p>
 
