@@ -27,7 +27,7 @@
 		    - [Performance](Methods/QuickSort.md#Performance)
 		    - [Exemplo de Implementação](Methods/QuickSort.md#Exemplo-de-Implementação)
 
-	 - [Conclusão]((Methods/Conclusion)
+	 - [Conclusão](Methods/Conclusion)
 	 ##
 		 
 - <h3>Questão 2</h3>
@@ -53,7 +53,7 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTQ3OTQxNiwtNDU5MDIyNTI2LC00OD
+eyJoaXN0b3J5IjpbMTY0NjkxNTYwNCwtNDU5MDIyNTI2LC00OD
 UzNjI4MTMsNjk1NzgxMDA4LC0xNzA4NTk4ODIwLDcyMjY4Nzkw
 MCwtMTYxNTQ5NTI2MywtMTQwODYyMTI1OSwxNzUwNTM1NzAxLD
 ExODg1MDg3NTksLTExMjgxMjY2MTUsMTQzMjM3NTQ1OCwxNjcz
