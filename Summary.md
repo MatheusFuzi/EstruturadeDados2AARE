@@ -1,11 +1,11 @@
 
 
 ![png](/img/unipar.png) 
-##
-<p align='center'><b>ADS - Análise e Desenvolvimento de Sistemas</p>
-<p align='center'><b>Estrutura de Dados</p>
 
-##
+<div align='center'><b><h2>ADS - Análise e Desenvolvimento de Sistemas
+<b><br>Estrutura de Dados
+
+
 
 
 
@@ -55,7 +55,7 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzIzMzcyNCwxNjE5MDgzMzgyLDE0OD
+eyJoaXN0b3J5IjpbLTYzNTA4ODA0NCwxNjE5MDgzMzgyLDE0OD
 I1NTExMTUsMTE2ODExNjUyLDk5OTI1ODY1NSwtMzMyNDU1MzYz
 XX0=
 -->
