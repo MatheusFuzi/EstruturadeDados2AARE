@@ -13,7 +13,7 @@
  - Questão 1
 
     - Métodos de Ordenação
-	    - [Bubble sort](/Ordering Methods/Bubble sort.md)
+	    - [Bubble sort](https://github.com/MatheusFuzi/EstruturadeDados2AARE/blob/master/Ordering%20Methods/Bubble%20Sort.md)
 		    - Descrição
 		    - Funcionamento
 		    - Performance
@@ -54,8 +54,8 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzM4MTEzNSwxMTg4NTA4NzU5LC0xMT
-I4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzExNzQ3MiwtNjM1MDg4
-MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNSwxMTY4MTE2NTIsOT
-k5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTEyODcxMTc3ODQsMTE4ODUwODc1OSwtMT
+EyODEyNjYxNSwxNDMyMzc1NDU4LDE2NzMxMTc0NzIsLTYzNTA4
+ODA0NCwxNjE5MDgzMzgyLDE0ODI1NTExMTUsMTE2ODExNjUyLD
+k5OTI1ODY1NSwtMzMyNDU1MzYzXX0=
 -->
