@@ -2,7 +2,9 @@
 
 ![png](/img/unipar.png) 
 ##
-ADS - Análise e Desenvolvimento de Sistemas
+**ADS - Análise e Desenvolvimento de Sistemas**
+		  **Estrutura de Dados**
+##
 
 
 
@@ -52,7 +54,7 @@ ADS - Análise e Desenvolvimento de Sistemas
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjQ2NDgwNSwxNjE5MDgzMzgyLDE0OD
+eyJoaXN0b3J5IjpbMTE0MzY3MDExNCwxNjE5MDgzMzgyLDE0OD
 I1NTExMTUsMTE2ODExNjUyLDk5OTI1ODY1NSwtMzMyNDU1MzYz
 XX0=
 -->
