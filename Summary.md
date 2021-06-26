@@ -2,7 +2,7 @@
 
  
 
- 1. Questão 1
+ - Questão 1
 
     - Métodos de Ordenação
 	    - Bubble sort
@@ -28,12 +28,16 @@
 
 	 - Conclusão
 		 
-2.Questão 2
-	-Á
+- Questão 2
+
+	 - Árvore binária
+		 - Funcionamento	
+
+
 		  
 
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTM3OTYzNywtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTIwNDUwOTk3NjMsLTMzMjQ1NTM2M119
 -->
