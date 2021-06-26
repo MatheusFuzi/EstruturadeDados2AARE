@@ -46,15 +46,15 @@
 
 
  ## Conceito</div>
-<p>	A ordenação tem como objetivo organizar os dados listados em ordem crescente ou decrescente assim facilitando a recuperação destes dados em um determinado sistema, auxiliando a busca e pesquisa dos dados</p>
+<p>	A ordenação tem como objetivo organizar os dados listados em ordem crescente ou decrescente assim facilitando a recuperação destes dados em um determinado conjunto a que pertencem, deste modo auxiliando a busca e pesquisa dos dados</p>
 		  
 
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTY1NDUwMCw3MjI2ODc5MDAsLTE2MT
-U0OTUyNjMsLTE0MDg2MjEyNTksMTc1MDUzNTcwMSwxMTg4NTA4
-NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzExNzQ3Mi
-wtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNSwxMTY4
-MTE2NTIsOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbODYwMjgzMDA3LDcyMjY4NzkwMCwtMTYxNT
+Q5NTI2MywtMTQwODYyMTI1OSwxNzUwNTM1NzAxLDExODg1MDg3
+NTksLTExMjgxMjY2MTUsMTQzMjM3NTQ1OCwxNjczMTE3NDcyLC
+02MzUwODgwNDQsMTYxOTA4MzM4MiwxNDgyNTUxMTE1LDExNjgx
+MTY1Miw5OTkyNTg2NTUsLTMzMjQ1NTM2M119
 -->
