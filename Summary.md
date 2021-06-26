@@ -3,7 +3,7 @@
 <b><br>Estrutura de Dados</h2></div>
 
 
-*<h2>Índice</h2>*
+*<h2>Índice<center>Métodos de </center></h2>*
 
  - <h3>Questão 1</h3>
 
@@ -45,15 +45,15 @@
 
 
  ## <div Conceito>Conceito</div>
-<p>	A ordenação </p>
+<p>	A ordenação auxilia a buscas de dados em um determinado conjunto de objetos</p>
 		  
 
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY3OTQxNDMsNzIyNjg3OTAwLC0xNj
-E1NDk1MjYzLC0xNDA4NjIxMjU5LDE3NTA1MzU3MDEsMTE4ODUw
-ODc1OSwtMTEyODEyNjYxNSwxNDMyMzc1NDU4LDE2NzMxMTc0Nz
-IsLTYzNTA4ODA0NCwxNjE5MDgzMzgyLDE0ODI1NTExMTUsMTE2
-ODExNjUyLDk5OTI1ODY1NSwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTUxNDgxNTU2Niw3MjI2ODc5MDAsLTE2MT
+U0OTUyNjMsLTE0MDg2MjEyNTksMTc1MDUzNTcwMSwxMTg4NTA4
+NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzExNzQ3Mi
+wtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNSwxMTY4
+MTE2NTIsOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
 -->
