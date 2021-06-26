@@ -11,9 +11,9 @@
     - Métodos de Ordenação
 	    - [Conceito geral]( #Conceito-Métodos-de-Ordenação)
 	    - [Bubble sort](Methods/BubbleSort.md)
-		    - [Funcionamento]()
-		    - [Performance]()
-		    - [Exemplo de Implementação]()
+		    - [Funcionamento](Methods/BubbleSort.md#Funcionamento)
+		    - [Performance](Methods/BubbleSort.md#Performance)
+		    - [Exemplo de Implementação](Methods/BubbleSort.md#Exemplo-de-Implementação)
 	    - [Selection sort](Methods/SelectionSort.md)
 		    - [Funcionamento]()
 		    - [Performance]()
@@ -53,10 +53,10 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTM2MjgxMyw2OTU3ODEwMDgsLTE3MD
-g1OTg4MjAsNzIyNjg3OTAwLC0xNjE1NDk1MjYzLC0xNDA4NjIx
-MjU5LDE3NTA1MzU3MDEsMTE4ODUwODc1OSwtMTEyODEyNjYxNS
-wxNDMyMzc1NDU4LDE2NzMxMTc0NzIsLTYzNTA4ODA0NCwxNjE5
-MDgzMzgyLDE0ODI1NTExMTUsMTE2ODExNjUyLDk5OTI1ODY1NS
-wtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTQ1OTAyMjUyNiwtNDg1MzYyODEzLDY5NT
+c4MTAwOCwtMTcwODU5ODgyMCw3MjI2ODc5MDAsLTE2MTU0OTUy
+NjMsLTE0MDg2MjEyNTksMTc1MDUzNTcwMSwxMTg4NTA4NzU5LC
+0xMTI4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzExNzQ3MiwtNjM1
+MDg4MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNSwxMTY4MTE2NT
+IsOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
 -->
