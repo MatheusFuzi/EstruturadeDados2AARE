@@ -35,7 +35,8 @@
 		 - Desempenho 
 			 - Árvore binária balanceada
 			 - Árvore binária não balanceada
-			 - Diferença entre as duas	
+			 - Diferença entre as duas
+			 - I	
 
 
 		  
@@ -43,5 +44,6 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTk3MTQwNzQwOSw5OTkyNTg2NTUsLTMzMj
+Q1NTM2M119
 -->
