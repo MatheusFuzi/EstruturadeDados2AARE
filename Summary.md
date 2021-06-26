@@ -1,9 +1,11 @@
 ![Alt text ](/img/unipar.png "teste") 
 <div align='center'><b><h2>ADS - Análise e Desenvolvimento de Sistemas
-<b><br>Estrutura de Dados</h2></div>
+<b><br>Estrutura de Dados 
+<br>Métodos de Ordenação</center></h2></div>
 
 
-*<h2>Índice<center>Métodos de </center></h2>*
+<h2>
+Índice</h2>*
 
  - <h3>Questão 1</h3>
 
@@ -51,7 +53,7 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDgxNTU2Niw3MjI2ODc5MDAsLTE2MT
+eyJoaXN0b3J5IjpbLTY2MTU1MTQxNSw3MjI2ODc5MDAsLTE2MT
 U0OTUyNjMsLTE0MDg2MjEyNTksMTc1MDUzNTcwMSwxMTg4NTA4
 NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzExNzQ3Mi
 wtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNSwxMTY4
