@@ -31,7 +31,11 @@
 - Questão 2
 
 	 - Árvore binária
-		 - Funcionamento	
+		 - Funcionamento
+		 - Desempenho 
+			 - Árvore binária balanceada
+			 - Árvore binária não balanceada
+			 - Diferença entre as duas	
 
 
 		  
@@ -39,5 +43,5 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDUwOTk3NjMsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
 -->
