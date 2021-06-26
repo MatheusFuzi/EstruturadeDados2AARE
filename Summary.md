@@ -23,9 +23,9 @@
 		    - [Performance](Methods/InsertionSort.md#Performance)
 		    - [Exemplo de Implementação](Methods/InsertionSort.md#Exemplo-de-Implementação)
 	    - [Quick sort](Methods/QuickSort.md)
-		    - [Funcionamento](#Funcionamento)
-		    - [Performance]()
-		    - [Exemplo de Implementação]()
+		    - [Funcionamento](Methods/QuickSort.md#Funcionamento)
+		    - [Performance](Methods/QuickSort.md#Performance)
+		    - [Exemplo de Implementação](Methods/QuickSort.md#Exemplo-de-Implementação)
 
 	 - [Conclusão]()
 	 ##
@@ -53,11 +53,10 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI2MjY5MTksLTQ1OTAyMjUyNiwtND
-g1MzYyODEzLDY5NTc4MTAwOCwtMTcwODU5ODgyMCw3MjI2ODc5
-MDAsLTE2MTU0OTUyNjMsLTE0MDg2MjEyNTksMTc1MDUzNTcwMS
-wxMTg4NTA4NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NTgsMTY3
-MzExNzQ3MiwtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4MjU1MT
-ExNSwxMTY4MTE2NTIsOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
-
+eyJoaXN0b3J5IjpbNDc5MTkwODgsLTQ1OTAyMjUyNiwtNDg1Mz
+YyODEzLDY5NTc4MTAwOCwtMTcwODU5ODgyMCw3MjI2ODc5MDAs
+LTE2MTU0OTUyNjMsLTE0MDg2MjEyNTksMTc1MDUzNTcwMSwxMT
+g4NTA4NzU5LC0xMTI4MTI2NjE1LDE0MzIzNzU0NTgsMTY3MzEx
+NzQ3MiwtNjM1MDg4MDQ0LDE2MTkwODMzODIsMTQ4MjU1MTExNS
+wxMTY4MTE2NTIsOTk5MjU4NjU1LC0zMzI0NTUzNjNdfQ==
 -->
