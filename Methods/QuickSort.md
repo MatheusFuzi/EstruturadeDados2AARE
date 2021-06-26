@@ -3,7 +3,7 @@
 
 ---
 
-<p><a href="../Summary.md">Voltar</a></p>
+<p><a href="../Readme.md">Voltar</a></p>
 <h1>Quick Sort
 </h1><h2 id="funcionamento">Funcionamento</h2>
 <p>O quicksort adota a estratégia de divisão e conquista. A estratégia consiste em rearranjar as chaves de modo que as chaves "menores" precedem as chaves "maiores". Em seguida o quicksort ordena as duas sublistas de chaves menores e maiores recursivamente até que a lista completa se encontre ordenada.</p>
