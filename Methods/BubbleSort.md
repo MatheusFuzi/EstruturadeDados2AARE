@@ -39,16 +39,11 @@ public void ordenar(int[] v) {
 }
 </code></pre>
 <h2 id="performance">Performance</h2>
-<ol>
-<li>Lista ordenada em ordem crescente.</li>
-<li>Lista ordenada em ordem decrescente.</li>
-<li>Lista desordenada com números aleatórios.</li>
-</ol>
+<p>Lista desordenada com números aleatórios.</p>
 
 <table>
 <thead>
 <tr>
-<th>Tipo Ordenação</th>
 <th>Tamanho vetor</th>
 <th>Tempo</th>
 <th>Comparações</th>
@@ -57,63 +52,6 @@ public void ordenar(int[] v) {
 </thead>
 <tbody>
 <tr>
-<td>1</td>
-<td>100</td>
-<td>0,0988</td>
-<td>5050</td>
-<td>0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>1000</td>
-<td>9,5415</td>
-<td>500500</td>
-<td>0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>10000</td>
-<td>934,5364</td>
-<td>50005000</td>
-<td>0</td>
-</tr>
-<tr>
-<td>2</td>
-<td>100</td>
-<td>0,2045</td>
-<td>5050</td>
-<td>14850</td>
-</tr>
-<tr>
-<td>2</td>
-<td>1000</td>
-<td>20,3377</td>
-<td>500500</td>
-<td>1498500</td>
-</tr>
-<tr>
-<td>2</td>
-<td>10000</td>
-<td>1838,0272</td>
-<td>50005000</td>
-<td>149985000</td>
-</tr>
-<tr>
-<td>3</td>
-<td>100</td>
-<td>0,1596</td>
-<td>5050</td>
-<td>6777</td>
-</tr>
-<tr>
-<td>3</td>
-<td>1000</td>
-<td>16,6730</td>
-<td>500500</td>
-<td>756840</td>
-</tr>
-<tr>
-<td>3</td>
 <td>10000</td>
 <td>1455,9734</td>
 <td>50005000</td>
