@@ -10,7 +10,7 @@
 
     - Métodos de Ordenação
 	    - [Conceito geral]( #Conceito)
-	    - [Bubble sort](/Methods/BubleSort.md)
+	    - [Bubble sort](/Methods/BubbleSort.md)
 		    - [Funcionamento]()
 		    - [Performance]()
 		    - [Exemplo de Implementação]()
@@ -53,7 +53,7 @@
 	  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg4NTk3MDEsLTE3MDg1OTg4MjAsNz
+eyJoaXN0b3J5IjpbLTE5OTMyNDE2MjcsLTE3MDg1OTg4MjAsNz
 IyNjg3OTAwLC0xNjE1NDk1MjYzLC0xNDA4NjIxMjU5LDE3NTA1
 MzU3MDEsMTE4ODUwODc1OSwtMTEyODEyNjYxNSwxNDMyMzc1ND
 U4LDE2NzMxMTc0NzIsLTYzNTA4ODA0NCwxNjE5MDgzMzgyLDE0
