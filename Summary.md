@@ -5,13 +5,15 @@
  1. Questão 1
 
     - Métodos de Ordenação
-    	   	 - Bubble sort
-    	   	 - Selection sort
-    	   	 - Insertion sort
-    	   	 - Quick sort
+	    - Bubble sort
+	    - Selection sort
+	    - Insertion sort
+	    - Quick sort
+	 - 
+		 - asd
+
 	  
-List item - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODAzOTExNSwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE0MjIzMTgwNjksLTMzMjQ1NTM2M119
 -->
